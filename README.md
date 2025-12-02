@@ -24,6 +24,6 @@
   4. LIVE Weather Forecast 🌦️
           : https://rajupanchada.github.io/live-weather-forecast/
   5. Simple Calculator 🖩
-     : 
+     : https://rajupanchada.github.io/simple-calculator/
 
 
