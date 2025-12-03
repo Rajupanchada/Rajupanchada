@@ -3,14 +3,14 @@
 ### Aspiring Java Full Stack Developer
 
 - 🔭 I’m currently working on LIVE Weather Forecast Project.
-- 🌱 I’m currently learning NBN basics.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning N8N basics.
+- 👯 I’m looking to collaborate on Backend development projects using java + Spring Boot,Frontend Development.
+- 💬 Ask me about Debugging tricky Git errors.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- 🌐 LinkedIn : https://www.linkedin.com/in/panchada-rajubabu/
+- 📫 How to reach me:
+  🌐 LinkedIn : https://www.linkedin.com/in/panchada-rajubabu/  |
+  📧 Email : @rajupanchada868@gmail.com
 
 ## Tech🧑‍💻
 
