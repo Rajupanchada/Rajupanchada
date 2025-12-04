@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 - 📫 How to reach me:
   🌐 LinkedIn : https://www.linkedin.com/in/panchada-rajubabu/  |
-  📧 Email : @rajupanchada868@gmail.com
+  📧 Email : rajupanchada868@gmail.com
 
 ## Tech🧑‍💻
 
