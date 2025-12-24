@@ -1,4 +1,4 @@
-# Hi👋, I'm Raju Babu Panchada👨🏻‍💼
+# Hi👋, I'm Rajubabu Panchada👨🏻‍💼
 
 ### Aspiring Java Full Stack Developer
 
