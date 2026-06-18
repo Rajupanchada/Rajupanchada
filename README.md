@@ -25,5 +25,7 @@
           : https://rajupanchada.github.io/live-weather-forecast/
   5. Simple Calculator 🖩
      : https://rajupanchada.github.io/simple-calculator/
+  6. My Food Blog
+     : https://rajupanchada.github.io/DevOps_CICD/#
 
 
